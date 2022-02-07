@@ -1,3 +1,3 @@
 server:
-  port: 1456
+  port: 9456
 message: from profile test
