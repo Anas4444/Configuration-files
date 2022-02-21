@@ -1,0 +1,4 @@
+server:
+  port: 9001
+message: hello from products
+test: test
