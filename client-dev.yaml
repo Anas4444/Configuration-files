@@ -1,4 +1,4 @@
 server:
-  port: 8088
+  port: 8089
 message: hello from dev
 test: test dev
