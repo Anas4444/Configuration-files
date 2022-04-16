@@ -1,4 +1,4 @@
 server:
-  port: 9001
+  port: 9101
 message: hello from products
 test: test
